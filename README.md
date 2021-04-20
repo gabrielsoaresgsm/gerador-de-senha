@@ -1,4 +1,4 @@
-# Gerador de Senha
+# Gerador de Senha *Ocorreu um erro ao upar os arquivos em breve irei corrigir!*
 
 <p align="center">
   <img width="230" height="400" src="assets/to_readme/animado.gif">
