@@ -5,7 +5,7 @@
 </p>
 
 ## Descrição 📖
-Este aplicativo tem a finalidade única de gerar senhas de forma aleatória, com opções de maiúsculas e/ou minúsculas, com letras e/ou números e caracteres especiais. Sim, existem softwares disponíveis gratuitamente que fazem a mesma coisa ou até mais, entretanto este aplicativo surgiu com motivo para aprendizado.
+Bem vindos!! Este é meu primeiro projeto 😄. Fiz esse aplicativo acompanhando as aulas do **@sujeitoprogramador** que me trouxe muito aprendizado em JavaScript e React Native. Este aplicativo tem a finalidade única de gerar senhas de forma aleatória, com opções de maiúsculas e/ou minúsculas, com letras e/ou números e caracteres especiais. Sim, existem softwares disponíveis gratuitamente que fazem a mesma coisa ou até mais, entretanto este aplicativo foi construido a fins de aprendizagem.
 
 ## Instalação 🚀
 ### Passo 1
