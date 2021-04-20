@@ -1,7 +1,7 @@
 # Gerador de Senha
 
 <p align="center">
-  <img width="230" height="400" src="assets/to_readme/animacao.gif">
+  <img width="230" height="400" src="assets/to_readme/animado.gif">
 </p>
 
 ## Descrição 📖
